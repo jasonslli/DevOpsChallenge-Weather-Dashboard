@@ -19,7 +19,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 - Supports multiple cities tracking
 - Timestamps all data for historical tracking
 
-## Technical Architecture
+## Technologies Used
 - **Language:** Python 3.x
 - **Cloud Provider:** AWS (S3)
 - **External API:** OpenWeather API
@@ -29,6 +29,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
   - requests
 
 ## Project Architecture
+
 ![Diagram](https://drive.google.com/uc?id=164CyyhkyLs992iEVVWupaTvB37QpS__Z)
 
 
