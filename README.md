@@ -28,6 +28,10 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
   - python-dotenv
   - requests
 
+## Project Architecture
+![My Diagram](https://drive.google.com/file/d/164CyyhkyLs992iEVVWupaTvB37QpS__Z/view?usp=drive_link)
+
+
 ```markdown
 ## Project Structure
 weather-dashboard/
